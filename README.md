@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-No, my hair isn't that long, but this was a nice photo DALL-E drew for me in early 2022.
+~~No, my hair isn't that long, but this was a nice photo DALL-E drew for me in early 2022.~~
+Update: August 2026: I have updated the picture using Codex. Does anyone even remember what DALL-E is anymore?
 
 - 🔭 I’m currently working on an app to automate sales listings. Care to join?
 - 👍 I also want to help improve your reality.
