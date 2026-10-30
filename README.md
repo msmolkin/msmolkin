@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-~~No, my hair isn't that long, but this was a nice photo DALL-E drew for me in early 2022.~~
-Update: August 2026: I have updated the picture using Codex. Does anyone even remember what DALL-E is anymore?
+My old profile picture was drawn by DALL-E in early 2022, and I'm keeping that date here for the early-adopter bragging rights. My hair was never that long.
 
 - 🔭 I’m currently working on an app to automate sales listings. Care to join?
 - 👍 I also want to help improve your reality.
